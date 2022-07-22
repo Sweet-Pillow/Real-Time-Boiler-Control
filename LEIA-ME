@@ -1,0 +1,6 @@
+* PASTAS
+/source - Esta pasta é utilizada para desenvolver os códidos .c e .h do sistema
+/doc - Esta pasta contém o relatório
+/dados - Esta pasta contém os aquivos de "dados.txt", "temperatura.txt" e "nivel.txt"
+
+
